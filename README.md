@@ -72,7 +72,8 @@ This project relies on the following main libraries:
   * [Numpy](https://numpy.org/)
   * [Scikit-learn](https://scikit-learn.org/) (for `joblib` and model execution)
 
-Link : https://telecom-customer-churn-ltv-prediction.streamlit.app/
+Link : https://telecom-customer-churn-ltv-prediction.streamlit.app/           
+https://telecom-churn-prediction-kyduqwmufjhfaejfukujsr.streamlit.app/
 
 <!-- end list -->
 
