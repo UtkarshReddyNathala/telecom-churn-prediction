@@ -18,8 +18,8 @@ Follow these steps to get the app running locally.
 ````
 **1. Clone the Repository**
 ```bash
-git clone [https://github.com/MrToshith/telecom-customer-churn-ltv-prediction.git](https://github.com/MrToshith/telecom-customer-churn-ltv-prediction.git)
-cd telecom-customer-churn-ltv-prediction
+git clone https://github.com/UtkarshReddyNathala/telecom-churn-prediction.git
+cd telecom-churn-prediction
 
 ````
 **2. Create a Virtual Environment (Recommended)**
